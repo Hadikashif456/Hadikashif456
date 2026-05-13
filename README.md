@@ -12,7 +12,7 @@
 - 🤖 Building **Jarvis** — an AI voice assistant powered by OpenAI API
 - 🌍 Accepted to **BSc AI at JKU Linz, Austria**
 - 💼 Freelance web developer with **10+ clients**
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **kashifhadi645@gmail.com**
 
 ---
 
